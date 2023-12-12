@@ -1,8 +1,8 @@
-import Layout from "../../Components/Layout"
+import Layout from '../../Components/Layout'
 
 function SignIn() {
   return (
-      <Layout>
+    <Layout>
       SignIn
     </Layout>
   )
